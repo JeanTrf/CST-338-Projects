@@ -1,3 +1,3 @@
 public interface IStone {
-    void special();
+    void special(Person person);
 }

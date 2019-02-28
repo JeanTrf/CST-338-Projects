@@ -9,9 +9,9 @@ public class SpaceStone implements IStone{
     private SpaceStone(){
 
     }
-
+//TODO: implement special
     @Override
-    public void special() {
+    public void special(Person person) {
         System.out.println("SpaceStone is not done yet");
     }
 
